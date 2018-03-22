@@ -1,0 +1,19 @@
+body{
+background-color: grey;
+font-family: Comic Sans MS, Helvetica, Verdana, sans-serif;
+}
+
+table{
+  width: 100%;
+  color: red;
+  background-color: yellow;
+  font-size: 25pt;
+  font-style: comic;
+}
+td{
+  border: 2px solid black;
+
+}
+th{
+  border: 5px solid red;
+}

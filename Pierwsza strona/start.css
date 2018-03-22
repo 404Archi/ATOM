@@ -1,0 +1,37 @@
+body {
+  background-color: #6dff63;
+}
+a {
+  color :  #ff0000;
+  border: 3px solid #0061ff;
+}
+a:hover {
+  font-size: 200%;
+  border: none;
+  text-decoration: underline;
+}
+strong {
+  color: #0061ff;
+
+}
+strong:hover
+{
+  font-size: 200%;
+}
+
+em{
+  color: white;
+}
+em:hover
+{
+  font-size: 200%;
+}
+img {
+  width: 100px;
+}
+img#lol {
+  width: 300px;
+}
+img#test {
+  width: 1000px
+}
